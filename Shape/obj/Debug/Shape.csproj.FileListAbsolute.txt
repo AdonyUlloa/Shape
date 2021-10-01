@@ -1,0 +1,4 @@
+C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.Properties.Resources.resources
+C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
