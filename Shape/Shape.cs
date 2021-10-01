@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//ESTUDIANTES
+//EDWIN ADONY ULLOA DIAZ
+//ALFREDO JOSE ZELAYA LAINEZ
+
 namespace Shape
 {
     //clase padre o base
@@ -29,7 +33,10 @@ namespace Shape
         }
 
         //este metodo se debe sobreescribir
-        public virtual string draw
+        public virtual string rotate()
+        {
+            return "La forma esta rotando";
+        }
 
     }
 }
