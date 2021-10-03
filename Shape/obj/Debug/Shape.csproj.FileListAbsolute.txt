@@ -2,3 +2,13 @@ C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.csprojAssemblyReference.cac
 C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.Properties.Resources.resources
 C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.csproj.GenerateResource.cache
 C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Shape\Shape\bin\Debug\Shape.exe.config
+C:\Users\PC\source\repos\Shape\Shape\bin\Debug\Shape.exe
+C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.Form1.resources
+C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.exe
+C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.pdb
+C:\Users\PC\source\repos\Shape\Shape\bin\Debug\Shape.pdb
+C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.Form3.resources
+C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.FormMenu.resources
+C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.Form2.resources
+C:\Users\PC\source\repos\Shape\Shape\obj\Debug\Shape.Form4.resources
